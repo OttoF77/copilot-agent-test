@@ -17,7 +17,7 @@ Durante este módulo, foi possível:
 
 A imagem abaixo apresenta o agente de IA desenvolvido durante o projeto, demonstrando a interface e funcionalidades implementadas:
 
-![Agente de Viagem - Teste](https://github.com/user-attachments/assets/copilot-agent-interface.png)
+![Agente de Viagem - Teste](copilot-agent-test.png)
 
 *Interface do Agente de Viagem desenvolvido no M365 Copilot, mostrando as funcionalidades de suporte ao cliente, insights e iniciativas implementadas.*
 
